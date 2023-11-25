@@ -267,7 +267,14 @@ i{
 				0 0 75px  #f2a60c,
 				0 0 115px #f2a60c;
 }
-
+.fa-envelope:hover{
+	background-color:  #f2a60c;
+	color: white;
+	box-shadow: 0 0 15px  #f2a60c,
+				0 0 45px  #f2a60c,
+				0 0 75px  #f2a60c,
+				0 0 115px #f2a60c;
+}
 
 
 
